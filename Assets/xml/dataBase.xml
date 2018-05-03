@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+    <Question
+      txt = "O professor Carlos de Salles está corrigindo as provas de Algorítmos e precisa colocar uma nota no sistema. A primeira nota que ele atribuiu a uma prova foi 8,5."
+      answer = "float"
+    />
+    <Question
+      txt = "Pedrinho está subindo um prédio pelo elevador para jogar FIFA com seus Maia, que mora no terceiro andar. Ele deve apertar um botão para subir."
+      answer = "int"
+    />
+    <Question
+      txt = "Carlinhos fez uma prova de Cálculo I. Ao chegar em casa, se deu conta de que errou todas questões. As respostas eram todas letras 'B'."
+      answer = "char"
+    />
+    <Question
+      txt = "Agamenon está assando um bolo para sua namorada. Ele viu em um site que um bolo padrão é assado a 200 graus Celsius."
+      answer = "int"
+    />
+    <Question
+      txt = "Paulo vai para a GameJam, ele precisa decidir se vai ou não levar um colchão."
+      answer = "bool"
+    />
+    <Question
+      txt = "José quer saber a pontuação que calça para comprar um novo sapato."
+      answer = "int"
+    />
+    <Question
+      txt = "Douglas quer checar a temperatura da sua gata que está doente."
+      answer = "float"
+    />
+    <Question
+      txt = "Arthur lê a bula do remédio para saber quantos mls cada dose deve ter."
+      answer = "float"
+    />
+    <Question
+      txt = "Franscisco quer saber quantos créditos restam em sua carteira de estudante."
+      answer = "float"
+    />
+    <Question
+      txt = "Anderson fará um jogo e quer saber que tipo se o Player está vivo ou morto."
+      answer = "bool"
+    />
+    <Question
+      txt = "Luciano está organizando seu desktop por ordem alfabética."
+      answer = "char"
+    />
+    <Question
+      txt = "Cristian quebrou seu teclado e agora tem que advinhar onde estão algumas letras."
+      answer = "char"
+    />
+    <Question
+      txt = "Rodrigo quer saber quantos chuchus são necessarios para fazer uma salada de chuchu."
+      answer = "int"
+    />
+    <Question
+      txt = "Vinicius quer saber a velocidade máxima de seu novo possante"
+      answer = "int"
+    />
+    <Question
+      txt = "Tiago vai ser papai e está decidindo, com sua esposa, qual será a primeira letra do nome de sua filha."
+      answer = "char"
+    />   
+</Inventory>
